@@ -24,10 +24,10 @@ Most of my work revolves around **making systems boring in production**.
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Cloud & Orchestration** | Kubernetes, AWS, Google Cloud, Docker |
-| **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
+| **Infrastructure as Code** | Terraform, Ansible |
 | **CI/CD & Automation** | GitHub Actions, GitLab CI, Jenkins, ArgoCD |
 | **Observability** | Prometheus, Grafana, ELK Stack, Datadog |
-| **Languages** | Python, Go, Bash, Rust |
+| **Languages** | Python, Go, Bash |
 
 ## Areas I Care About
 
@@ -35,10 +35,3 @@ Most of my work revolves around **making systems boring in production**.
 *   **Kubernetes in Production**: Moving beyond "it works on my machine" to multi-cluster scale.
 *   **CI/CD Pipelines**: Building guardrails that empower developers rather than blocking them.
 *   **Designing for Failure**: Architecting systems that degrade gracefully.
-
-## Connect
-
-If you'd like to chat about infrastructure, reliability, or just tech in general:
-
-*   [<i class="fab fa-fw fa-github"></i> GitHub](https://github.com/devanshu06)
-*   [<i class="fab fa-fw fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/devanshu-singh-582aa6193/)

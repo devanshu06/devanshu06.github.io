@@ -1,36 +1,23 @@
 ---
 layout: single
-title: "Projects & Expertise"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-A deep dive into the systems, platforms, and tooling I’ve built to ensure high availability and developer velocity.
+A selection of systems, platforms, and tooling I’ve worked on or built.
 
-## <i class="fas fa-dharmachakra"></i> Kubernetes Platform Engineering
-**Scalability • Cost-Efficiency • Reliability**
+## <i class="fas fa-shield-alt"></i> The Keep
+**Ansible • HashiCorp Vault • Automation • Security**
 
-*   **Autoscaling at Scale**: Designed and operated production Kubernetes clusters utilizing **Karpenter** for rapid, efficient node provisioning.
-*   **Ephemeral CI Runners**: Optimized CI workloads by implementing ephemeral runners on K8s, reducing wait times and cloud spend.
-*   **Resilient Scheduling**: Fine-tuned pod scheduling and priority classes to minimize the impact of spot instance evictions.
+**[<i class="fab fa-github"></i> View on GitHub](https://github.com/devanshu06/the-keep)**
 
----
+An Ansible-driven orchestration solution for provisioning, hardening, and operating a production-grade [**HashiCorp Vault**](https://developer.hashicorp.com/vault) cluster in High Availability (HA) mode.
 
-## <i class="fas fa-rocket"></i> CI/CD & DevEx
-**Speed • Repeatability • Security**
-
-*   **Unified Pipelines**: Built reusable, modular CI/CD pipelines for multi-environment deployments, standardizing the path to production.
-*   **Modern Build Tooling**: Migrated legacy workloads away from Docker-in-Docker to more secure, faster OCI-compliant build systems.
-*   **Efficiency**: Reduced average build-to-deploy times by 40% through intelligent caching and parallelization.
-
----
-
-## <i class="fas fa-chart-line"></i> Observability & SRE
-**Visibility • SLIs/SLOs • Resilience**
-
-*   **Full-Stack Visibility**: Implemented comprehensive Prometheus & Grafana monitoring with automated alerting for critical system health.
-*   **Data-Driven Reliability**: Collaborated with product teams to define meaningful **SLIs and SLOs**, turning reliability into a measurable metric.
-*   **Incident Response**: Streamlined on-call workflows by building dashboards that surface root causes during the "Golden Signals" phase.
+*   **Automated HA Deployment**: Provisions a three-node Vault cluster using Raft storage, eliminating the need for external storage backends like Consul.
+*   **Infrastructure as Code**: Fully customizable configuration via Ansible group variables, supporting both **AWS** and **Google Cloud Platform (GCP)**.
+*   **Production Hardening**: Includes automated TLS certificate management, OS-level hardening, and disaster recovery workflows (Snapshot/Restore).
+*   **Operational Excellence**: Built-in support for Google SSO (OIDC) integration and standardized unseal processes.
 
 ---
 
