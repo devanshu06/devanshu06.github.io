@@ -26,7 +26,7 @@ An Ansible-driven orchestration solution for provisioning, hardening, and operat
 
 ## <i class="fab fa-golang"></i> Go-HotEnv
 **Golang • Kubernetes • Developer Experience**  
-*Built: Late 2025*
+*Built: Oct 2025*
 
 **[<i class="fab fa-github"></i> View on GitHub](https://github.com/devanshu06/go-hotenv)** • **[<i class="fas fa-blog"></i> Read the Blog Post](/blog/stop-restarting-pods-for-every-env-change-building-go-hotenv/)**
 

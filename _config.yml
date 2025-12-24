@@ -41,15 +41,6 @@ locale: "en-US"
 search: true
 search_provider: lunr
 
-# Sharing
-social:
-  type: Person
-  name: Devanshu Singh
-  links:
-    - https://github.com/devanshu06
-    - https://www.linkedin.com/in/devanshu0611/
-    - https://x.com/mrdev06
-
 footer:
   links:
     - label: "LinkedIn"
@@ -58,15 +49,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devanshu06"
-
-# Post Sharing
-sharing_links:
-  - name: "X"
-    icon: "fab fa-fw fa-x-twitter"
-    url: "https://twitter.com/intent/tweet?text={title}%20{url}"
-  - name: "LinkedIn"
-    icon: "fab fa-fw fa-linkedin"
-    url: "https://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}"
 
 defaults:
   - scope:
