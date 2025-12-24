@@ -4,7 +4,7 @@ url: "https://devanshu06.github.io"
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "neon"
 
 # Plugins
 plugins:
@@ -14,16 +14,22 @@ plugins:
 # Author / Personal Info
 author:
   name: "Devanshu Singh"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/devanshu.jpeg"
   bio: "SRE / DevOps Engineer. Building reliable systems at scale."
-  location: "World Wide Web"
+  location: "Varanasi, India "
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/devanshu06"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/devanshu0611/"
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/mrdev06"
+    - label: "Instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/its.me.devanshu"
 
 # Site Settings
 locale: "en-US"
