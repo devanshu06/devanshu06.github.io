@@ -36,6 +36,12 @@ author:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/its.me.devanshu"
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
 # Site Settings
 locale: "en-US"
 search: true
@@ -53,15 +59,24 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "projects"
     values:
       layout: single
       classes: wide
       author_profile: true
+      share: false
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
       read_time: true
       show_date: true
-      comments: true
-      share: true
+      share: false
       related: true
   - scope:
       path: ""
