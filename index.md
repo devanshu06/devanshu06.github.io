@@ -3,7 +3,7 @@ layout: single
 title: "Hey, I'm Devanshu Singh 👋"
 permalink: /
 author_profile: true
-classes: full
+classes: wide
 search: true
 ---
 
@@ -39,10 +39,6 @@ I worked on:
 - Bringing meaningful observability via **OpenTelemetry (OTEL)**  
 
 Along the way, I helped transform deployments from hours to minutes and supported platform growth from ~50K to **500K+ users**, while keeping stability, uptime, and trust as core engineering values.
-
----
-
-![Mid Section](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZqZW1hcWV0bGdybWt5eWh0YzVwbGJmZDBpMTIwamd0N3VpMjAxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 
 ---
 
