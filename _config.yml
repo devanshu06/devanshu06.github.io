@@ -41,6 +41,12 @@ locale: "en-US"
 search: true
 search_provider: lunr
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
 footer:
   links:
     - label: "LinkedIn"
