@@ -1,5 +1,5 @@
 ---
-title: "The Keep"
+title: "The-Keep"
 excerpt: "An Ansible-driven orchestration solution for provisioning, hardening, and operating a production-grade HashiCorp Vault cluster in HA mode."
 header:
   teaser: /assets/images/vault-header.png

@@ -4,7 +4,7 @@ url: "https://devanshu06.github.io"
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 
 # Plugins
 plugins:
