@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: single
 title: "Why Staging Is Green but Prod Is Red"
+date: 2025-01-01
+excerpt: "Understanding hidden assumptions, real traffic, and why production is the only truth."
 ---
 
 Production failures are rarely random.

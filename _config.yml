@@ -1,4 +1,47 @@
 title: Devanshu Singh
 description: SRE / DevOps Engineer — Reliability, Kubernetes, Automation
-theme: minima
-markdown: kramdown
+url: "https://devanshu06.github.io" # Replace with your actual URL if custom
+
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Author / Personal Info
+author:
+  name: "Devanshu Singh"
+  avatar: "/assets/images/avatar.jpg" # Add an image later or remove this line
+  bio: "SRE / DevOps Engineer. Building reliable systems at scale."
+  location: "World Wide Web"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/devanshu06"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/devanshu-singh-582aa6193/"
+
+# Site Settings
+locale: "en-US"
+search: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+

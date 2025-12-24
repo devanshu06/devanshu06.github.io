@@ -1,40 +1,34 @@
 ---
-layout: default
-title: Devanshu Singh
+layout: single
+title: "About Me"
+permalink: /
+author_profile: true
 ---
 
-# Devanshu Singh  
-### SRE / DevOps Engineer
-
-Building reliable systems at scale — with automation, observability, and calm incident response.
+I am an **SRE / DevOps Engineer** focused on building reliable systems at scale using automation, observability, and calm incident response.
 
 > **Philosophy:** If a system can’t survive controlled failure, it won’t survive real traffic.
-
----
 
 ## What I Do
 
 I work at the intersection of:
-- infrastructure & platform engineering  
-- Kubernetes & cloud-native systems  
-- CI/CD automation  
-- reliability, resilience, and failure analysis  
+- **Infrastructure & Platform Engineering**
+- **Kubernetes & Cloud-Native Systems**
+- **CI/CD Automation**
+- **Reliability, Resilience, & Failure Analysis**
 
 Most of my work revolves around **making systems boring in production**.
 
----
-
 ## Areas I Care About
 
-- System reliability & error budgets  
-- Kubernetes in real-world production  
-- CI/CD pipelines that don’t fight engineers  
-- Designing for failure (not pretending it won’t happen)
+*   **System Reliability & Error Budgets**: Defining what "broken" means before it happens.
+*   **Kubernetes in Production**: Moving beyond "it works on my machine" to multi-cluster scale.
+*   **CI/CD Pipelines**: Building guardrails that empower developers rather than blocking them.
+*   **Designing for Failure**: Architecting systems that degrade gracefully.
 
----
+## Connect
 
-## Find Me
+If you'd like to chat about infrastructure, reliability, or just tech in general:
 
-- GitHub: https://github.com/devanshu06  
-- LinkedIn: https://www.linkedin.com/in/devanshu-singh-582aa6193/
-
+*   [<i class="fab fa-fw fa-github"></i> GitHub](https://github.com/devanshu06)
+*   [<i class="fab fa-fw fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/devanshu-singh-582aa6193/)
