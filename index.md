@@ -3,6 +3,8 @@ layout: single
 title: "About Me"
 permalink: /
 author_profile: true
+classes: wide
+search: true
 ---
 
 I am an **SRE / DevOps Engineer** focused on building reliable systems at scale using automation, observability, and calm incident response.

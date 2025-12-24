@@ -1,6 +1,7 @@
 title: Devanshu Singh
 description: SRE / DevOps Engineer — Reliability, Kubernetes, Automation
 url: "https://devanshu06.github.io"
+logo: "/assets/images/devanshu.jpeg"
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
@@ -18,7 +19,8 @@ author:
   name: "Devanshu Singh"
   avatar: "/assets/images/devanshu.jpeg"
   bio: "SRE / DevOps Engineer. Building reliable systems at scale."
-  location: "Varanasi, India "
+  location: "Varanasi, India"
+  employer: "One2N (Remotely)"
   links:
     - label: "GitHub"
       icon: "fa-brands fa-github"
@@ -46,7 +48,7 @@ defaults:
       classes: wide
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
   - scope:
