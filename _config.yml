@@ -36,12 +36,14 @@ author:
 # Site Settings
 locale: "en-US"
 search: true
+search_provider: lunr
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: false
@@ -51,5 +53,6 @@ defaults:
       path: ""
     values:
       layout: single
+      classes: wide
       author_profile: true
 
