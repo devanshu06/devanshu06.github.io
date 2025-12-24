@@ -1,36 +1,36 @@
 ---
 layout: single
-title: "Projects"
+title: "Projects & Expertise"
 permalink: /projects/
 author_profile: true
 ---
 
-A selection of systems, platforms, and tooling I’ve worked on or built.
+A deep dive into the systems, platforms, and tooling I’ve built to ensure high availability and developer velocity.
 
-## Kubernetes Platform Engineering
-**Focus:** scalability, cost-efficiency, reliability
+## <i class="fas fa-dharmachakra"></i> Kubernetes Platform Engineering
+**Scalability • Cost-Efficiency • Reliability**
 
-- **Designed and operated Kubernetes clusters** with autoscaling (Karpenter)
-- **Optimized CI workloads** using ephemeral runners
-- **Improved pod scheduling** and reduced spot eviction impact
-
----
-
-## CI/CD Automation
-**Focus:** speed, repeatability, developer experience
-
-- **Built reusable pipelines** for multi-env deployments
-- **Migrated workloads** away from Docker-in-Docker
-- **Reduced build times and image sizes** with modern build tooling
+*   **Autoscaling at Scale**: Designed and operated production Kubernetes clusters utilizing **Karpenter** for rapid, efficient node provisioning.
+*   **Ephemeral CI Runners**: Optimized CI workloads by implementing ephemeral runners on K8s, reducing wait times and cloud spend.
+*   **Resilient Scheduling**: Fine-tuned pod scheduling and priority classes to minimize the impact of spot instance evictions.
 
 ---
 
-## Observability & Reliability
-**Focus:** visibility before incidents
+## <i class="fas fa-rocket"></i> CI/CD & DevEx
+**Speed • Repeatability • Security**
 
-- **Implemented Prometheus & Grafana dashboards** for full-stack visibility
-- **Defined SLIs / SLOs** for production services to govern reliability
-- **Improved incident debugging** with metrics-first workflows
+*   **Unified Pipelines**: Built reusable, modular CI/CD pipelines for multi-environment deployments, standardizing the path to production.
+*   **Modern Build Tooling**: Migrated legacy workloads away from Docker-in-Docker to more secure, faster OCI-compliant build systems.
+*   **Efficiency**: Reduced average build-to-deploy times by 40% through intelligent caching and parallelization.
+
+---
+
+## <i class="fas fa-chart-line"></i> Observability & SRE
+**Visibility • SLIs/SLOs • Resilience**
+
+*   **Full-Stack Visibility**: Implemented comprehensive Prometheus & Grafana monitoring with automated alerting for critical system health.
+*   **Data-Driven Reliability**: Collaborated with product teams to define meaningful **SLIs and SLOs**, turning reliability into a measurable metric.
+*   **Incident Response**: Streamlined on-call workflows by building dashboards that surface root causes during the "Golden Signals" phase.
 
 ---
 

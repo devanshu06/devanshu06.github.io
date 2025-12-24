@@ -19,6 +19,16 @@ I work at the intersection of:
 
 Most of my work revolves around **making systems boring in production**.
 
+## Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & Orchestration** | Kubernetes, AWS, Google Cloud, Docker |
+| **Infrastructure as Code** | Terraform, Ansible, CloudFormation |
+| **CI/CD & Automation** | GitHub Actions, GitLab CI, Jenkins, ArgoCD |
+| **Observability** | Prometheus, Grafana, ELK Stack, Datadog |
+| **Languages** | Python, Go, Bash, Rust |
+
 ## Areas I Care About
 
 *   **System Reliability & Error Budgets**: Defining what "broken" means before it happens.
