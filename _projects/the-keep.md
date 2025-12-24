@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
 date: 2025-12-24
 repo_url: "https://github.com/devanshu06/the-keep"
-blog_url: "/blog/building-the-keep/"
+blog_url: "/blog/building-the-keep"
 icons:
   - fas fa-shield-alt
 tags:
@@ -29,4 +29,4 @@ An Ansible-driven orchestration solution for provisioning, hardening, and operat
 *   **Operational Excellence**: Built-in support for Google SSO (OIDC) integration and standardized unseal processes.
 
 [<i class="fab fa-github"></i> **View on GitHub**](https://github.com/devanshu06/the-keep){: .btn .btn--primary}
-[<i class="fas fa-blog"></i> **Read Blog Post**](/blog/building-the-keep/){: .btn .btn--light}
+[<i class="fas fa-blog"></i> **Read Blog Post**](/blog/building-the-keep){: .btn .btn--light}
