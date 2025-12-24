@@ -10,6 +10,8 @@ minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Author / Personal Info
 author:
