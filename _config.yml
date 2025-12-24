@@ -64,6 +64,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      show_date: true
       share: false
       sidebar:
         nav: "docs"
@@ -73,7 +74,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
       read_time: true
       show_date: true
       share: false

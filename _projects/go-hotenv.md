@@ -28,4 +28,4 @@ A robust solution for enabling hot-reloadable environment variables in Go applic
 *   **Zero Downtime**: Decouples deployment lifecycles from configuration lifecycles, significantly reducing the inner development loop.
 
 [<i class="fab fa-github"></i> **View on GitHub**](https://github.com/devanshu06/go-hotenv){: .btn .btn--primary} 
-[<i class="fas fa-blog"></i> **Read Blog Post**](/blog/stop-restarting-pods-for-every-env-change-building-go-hotenv/){: .btn .btn--light}
+[<i class="fas fa-blog"></i> **Read Blog Post**](/blog/go-hotenv/){: .btn .btn--light}
