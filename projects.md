@@ -8,3 +8,7 @@ search: true
 ---
 
 A selection of systems, platforms, and tooling I’ve worked on or built.
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
