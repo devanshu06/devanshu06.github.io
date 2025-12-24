@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/vault-header.png
   overlay_image: /assets/images/vault-header.png
   overlay_filter: 0.5
-date: 2025-12-25
+date: 2025-12-24
 repo_url: "https://github.com/devanshu06/the-keep"
 icons:
   - fas fa-shield-alt
