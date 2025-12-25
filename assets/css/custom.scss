@@ -1,4 +1,32 @@
+/* Wide clean reading layout - Centered Content */
+
+/* Reset layout for centered view when sidebar/profile is disabled */
 .page__inner-wrap {
-    max-width: none !important;
-    width: 100% !important;
-  }
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 1200px !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  width: 100%;
+  clear: both;
+}
+
+.page__content {
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 1050px !important;
+  width: 100%;
+}
+
+/* Ensure the main container doesn't force a sidebar gap */
+.wide .page {
+  padding-right: 0 !important;
+}
+
+/* Hide RSS icons as requested in your HTML styles */
+.page__footer-follow .social-icons .fa-rss-square,
+.page__footer-follow .social-icons a[href*="feed.xml"] {
+  display: none !important;
+}
