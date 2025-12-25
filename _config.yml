@@ -66,6 +66,7 @@ defaults:
       author_profile: false
       show_date: true
       share: false
+      sidebar: false
   - scope:
       path: ""
       type: "posts"
@@ -77,10 +78,12 @@ defaults:
       show_date: true
       share: false
       related: true
+      sidebar: false
   - scope:
       path: ""
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
+      sidebar: false
 
