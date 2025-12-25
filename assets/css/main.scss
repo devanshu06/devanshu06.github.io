@@ -1,6 +1,9 @@
-/* Wide clean reading layout - Centered Content */
+---
+---
 
-/* Reset layout for centered view when sidebar/profile is disabled */
+@import "minimal-mistakes";
+
+/* Wide clean reading layout - Centered Content */
 .page__inner-wrap {
   float: none !important;
   margin-left: auto !important;
@@ -25,7 +28,7 @@
   padding-right: 0 !important;
 }
 
-/* Hide RSS icons as requested in your HTML styles */
+/* Hide RSS icons */
 .page__footer-follow .social-icons .fa-rss-square,
 .page__footer-follow .social-icons a[href*="feed.xml"] {
   display: none !important;
