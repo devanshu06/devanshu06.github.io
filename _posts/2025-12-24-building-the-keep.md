@@ -17,6 +17,7 @@ tags:
   - Ansible
   - Vault
   - Automation
+toc: true
 ---
 
 If you’ve ever set up a **HashiCorp Vault** cluster manually, you know the very specific flavor of existential dread it unleashes.  

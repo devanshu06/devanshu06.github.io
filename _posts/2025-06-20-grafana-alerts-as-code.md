@@ -18,6 +18,7 @@ header:
   teaser: /assets/images/grafana-header.png
   overlay_image: /assets/images/grafana-header.png
   overlay_filter: 0.5
+toc: true
 ---
 
 It started with a missing alert.

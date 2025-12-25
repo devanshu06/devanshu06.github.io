@@ -20,7 +20,7 @@ author:
   bio: "SRE / DevOps Engineer. Building reliable systems at scale."
   location: "Varanasi, India"
   links:
-    - label: "One2N (Remotely)"
+    - label: "One2N"
       icon: "fas fa-fw fa-building-columns"
       url: "https://one2n.io"
     - label: "GitHub"
@@ -55,6 +55,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devanshu06"
+  since: "2022"
 
 defaults:
   - scope:
@@ -63,27 +64,24 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
       show_date: true
-      share: false
-      sidebar: false
+      share: true
   - scope:
       path: ""
       type: "posts"
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
       read_time: true
       show_date: true
-      share: false
+      share: true
       related: true
-      sidebar: false
   - scope:
       path: ""
     values:
       layout: single
       classes: wide
-      author_profile: false
-      sidebar: false
+      author_profile: true
 
