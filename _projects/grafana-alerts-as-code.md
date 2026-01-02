@@ -19,6 +19,7 @@ tags:
 ---
 
 **Grafana • Jsonnet • Grizzly**
+
 *Built: June 2025*
 
 A robust framework for managing Grafana alerting rules as code, solving the "ClickOps" problem in observability pipelines.
